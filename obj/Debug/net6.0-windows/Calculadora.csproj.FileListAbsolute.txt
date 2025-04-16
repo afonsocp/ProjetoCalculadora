@@ -1,0 +1,28 @@
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Afonso\Desktop\projeto c# .net\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
+C:\Users\Afonso\Desktop\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Users\Afonso\Desktop\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Users\Afonso\Desktop\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Users\Afonso\Desktop\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Users\Afonso\Desktop\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\Afonso\Desktop\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afonso\Desktop\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Afonso\Desktop\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\Afonso\Desktop\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Afonso\Desktop\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Users\Afonso\Desktop\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\Users\Afonso\Desktop\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\Afonso\Desktop\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\Afonso\Desktop\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
