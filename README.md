@@ -35,3 +35,6 @@ Este projeto é uma calculadora semi-científica desenvolvida em C# usando Windo
 - C# .NET
 - Windows Forms
 - Visual Studio
+
+### Repositórios GitHub
+- Calculadora: https://github.com/afonsocp/ProjetoCalculadora
